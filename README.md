@@ -11,10 +11,12 @@ The results bellow are from sigle network:
 <img src='imgs/multistyle.jpg' width="500px"/>
 
 ### Training
-    ```bash
+
+
     bash train.sh
-    ```
+
 
 ### Testing
-    ```bash
+
     bash test.sh
+
