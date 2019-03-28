@@ -1,0 +1,14 @@
+DATA_ROOT=datasets/photo2fourcollection \
+name=expt1_gated-gan \
+model="gatedgan_test" \
+which_direction='AtoB' \
+results_dir='./results/' \
+phase=test \
+loadSize=256 \
+fineSize=256 \
+how_many=all \
+which_epoch=200 \
+n_style=4 \
+resize_or_crop="scale_width" \
+gpu=0 \
+th test.lua
