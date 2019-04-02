@@ -8,7 +8,7 @@ Our model architecture is defined as depicted below, please refer to the paper f
 
 ## Results
 
-The results bellow are from a single network:  
+The results bellow are produced from a single network:  
 
 <img src='imgs/multistyle.jpg' width="500px"/>
 
